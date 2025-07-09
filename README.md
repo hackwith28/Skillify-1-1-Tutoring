@@ -155,4 +155,4 @@ This project is licensed under the MIT License. See `LICENSE` file for details.
 
 Pull requests, bug reports, and feature suggestions are welcome!
 
-📧 Contact: [abhinavpathak789@gmail.com](https://github.com/Cyfer-ap)
+📧 Contact: reeteshsahu1828@gmail.com
