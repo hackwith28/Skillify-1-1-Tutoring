@@ -3,6 +3,13 @@
 **Skillify** is a full-stack web platform designed for personalized, real-time 1-on-1 tutoring sessions and live group classes. It supports **instant or scheduled bookings**, **video conferencing**, **wallet-based payments**, and **collaborative tools** like whiteboards and chat. Inspired by Uber’s on-demand model, Skillify aims to transform how students and tutors connect globally.
 
 ---
+OUTPUTS
+Home
+![image](https://github.com/user-attachments/assets/0ebb0e0e-72f0-4537-a318-6945517061d2)
+![image](https://github.com/user-attachments/assets/627fd0a1-efa6-4607-a29e-b8150baba225)
+![image](https://github.com/user-attachments/assets/3aa2a30b-6ec4-497b-81b9-0ac0b2dfff3d)
+![image](https://github.com/user-attachments/assets/91efef5d-200c-4867-9b00-330554896d88)
+
 
 ## 🧩 Features
 
